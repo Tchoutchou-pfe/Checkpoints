@@ -1,0 +1,31 @@
+			h1{
+			  color: green;
+			  font: sans-serif;
+			}
+            .informationtitle{
+                color:rgb(245, 206, 147)
+            }
+            .intro{
+			  color: rgb(128, 0, 117);
+			  font: small;
+              font-family: "roboto";
+			}
+			p {
+			  color: darkblue;
+			  font: small;
+              font-family: "roboto" ;
+			}
+            nav li {
+            display: inline;
+             }
+             .menu a{
+                color:hotpink;
+                 }
+            li{
+            list-style: none;
+                     }
+            header{
+             color:indigo;
+                                }
+            
+		
