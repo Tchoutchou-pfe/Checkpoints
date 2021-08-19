@@ -1,0 +1,168 @@
+*{
+  background-size: contain;
+  background-color:hsl(hue, saturation, lightness)
+}
+
+p{
+  color:slategray;
+  font-family: sans-serif;
+}
+header{
+  color:indigo;
+  text-decoration: lemonchiffon;
+  font-size: large;
+  font-style: italic;
+  font-family:'Times New Roman';
+  position: fixed;
+  top:0;
+  width:100%;
+  border-radius: 10mm;
+  border-style: solid;
+  border-color:thistle;
+  background-color:wheat
+}
+
+ul{
+  display:flex;
+  justify-content: space-between;
+}
+
+nav li{
+  list-style-type: none;
+  justify-content: flex-end;
+  margin:
+}
+.menu{
+  overflow: hidden;
+}
+.menu a{
+  color:rosybrown;
+  float:left; 
+}
+
+.informationtitle{
+  color:salmon;
+  font-size: large;
+  font-family:fantasy;
+}
+
+.title{
+  margin: 8%;
+  text-align: center;
+}
+
+.home{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding: 10% 10% 10% 10%;
+}
+.services{
+ display: flex;
+ text-align: center;
+ font-size: small;
+ font-family: monospace;
+ color:lightsalmon;
+ padding-left:10% ;
+ padding-right: 10%;
+ justify-content: space-between;
+ 
+ 
+}
+
+#s1{
+  background-color:lightseagreen;
+  border-radius: 20px;
+}
+#s2{
+  background-color: lightskyblue;
+  border-radius: 20px
+}
+#s3{
+  background-color:paleturquoise;
+  border-radius: 20px
+}
+
+.icons{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  color:green
+}
+#icon1{
+  display: flex;
+}
+#icon2{
+  display: flex;
+}
+#icon3{
+  display: flex;
+}
+
+#icon4{
+  display: flex;
+}
+#icon5{
+  display: flex;
+}
+#icon6{
+  display: flex;
+}
+
+.video{
+text-align: center;
+color:tomato;
+font-family: cursive;
+background-color: wheat;
+border-radius: 200px;
+border-color: turquoise;
+}
+
+.details{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color:wheat;
+  color:white;
+  text-align-last: center;
+  height: 500px;
+}
+.details p{
+  font-size: medium;
+}
+#d1{
+  background-color:sandybrown;
+  border-radius: 10px;
+  width: 200px;
+  margin-top:10%;
+
+
+ 
+}
+#d2{
+  background-color:sandybrown;
+  border-radius: 50px;
+  width:250px;
+  margin: 5px;%;
+
+}
+#d3{
+  background-color:sandybrown;
+  border-radius: 50px;
+
+}
+#d4{
+  background-color:sandybrown;
+  border-radius: 10px;
+
+}
+#Newsletter{
+  text-align: center;
+}
+.footer{
+  display:flex;
+}
+footer li{
+  list-style: none;
+  display:inline-block
+}
